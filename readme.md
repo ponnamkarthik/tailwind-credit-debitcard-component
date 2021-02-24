@@ -6,4 +6,4 @@ https://tailwindcomponents.com/component/credit-debit-card/landing
 
 ## Output
 
-![UI]()
+![UI](https://github.com/ponnamkarthik/tailwind-credit-debitcard-component/blob/master/screens/ui.png?raw=true)
